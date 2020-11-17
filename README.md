@@ -2,7 +2,7 @@
 ## 가상 리눅스 머신을 이용하여 xilinx사의 VHDL을 사용하였다. VHDL 코딩을 통하여 HW를 설계하였다.
 ## 본 수업을 수강하며 정리한 VHDL HW 설계 자료와 소스코드, 그리고 Term Project 자료를 정리하였다.
 
-### 3. ALU 설계 term project
+### 1. ALU 설계 term project
 #### 1) 설계 보고서
 
 ![image](https://user-images.githubusercontent.com/58419421/99385358-37f7bf00-2914-11eb-97fe-f01fe38d012b.png)
